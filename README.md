@@ -28,9 +28,6 @@ simon-game/
 ├── style.css # Styles
 └── app.js # Game logic
 
-## 📸 Screenshot
-
-![Simon Game Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.png)
 
 ## 📌 Features
 
